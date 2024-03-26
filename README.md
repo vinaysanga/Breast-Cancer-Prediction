@@ -1,9 +1,10 @@
+# Breast Cancer Prediction
+In this project, I try to predict the possibility of Breast Cancer using the Breast Cancer Wisconsin Dataset from Kaggle.
+
 <a target="_blank" href="https://colab.research.google.com/github/vinaysanga/Breast-Cancer-Prediction.git">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-# Breast Cancer Prediction
-In this project, I try to predict the possibility of Breast Cancer using the Breast Cancer Wisconsin Dataset from Kaggle.
 ## Implementations:
 1. Firstly, I did some data preprocessing to understand the data.
 2. Then, I implemented the following classfication algorithms:
